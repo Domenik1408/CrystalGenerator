@@ -1,0 +1,26 @@
+{
+  "name": "spotify-gen",
+  "version": "1.0.0",
+  "description": "privat spotify generator.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "spotify",
+    "account",
+    "generator",
+    "proxy",
+    "bot"
+  ],
+  "author": "dawey",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "chalk": "^4.1.2",
+    "dotenv": "^10.0.0",
+    "randexp": "^0.5.3",
+    "request": "^2.88.2",
+    "socks-proxy-agent": "^6.1.0"
+  }
+}
