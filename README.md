@@ -15,3 +15,7 @@
 ### **This tool was originally part of the Crystal project, but the source code has been released since the project has ended. This tool was programmed by Domenik and you are not allowed to remove the credits.**
 
 #
+
+### Why i published the sourcecode?
+
+### *I saw some kids on youtube flexing with "his" gen and spotify fixed the gen. but some other people made new gens and that increased the number of skids and they all started their accounts shop 🤡 i wanna get rid of them so i'll be sending this to spotify to patch fuck you skids!!**
