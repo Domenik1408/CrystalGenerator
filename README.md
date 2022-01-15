@@ -1,5 +1,7 @@
 # CrystalGenerator - Spotify Account Generator
 
+### CrystalGenerator got patched at 15.01.2022 and don't work anymore. This is now useless!
+
 ### Setup
 
 - Install [NodeJS](https://nodejs.org) on your computer.
