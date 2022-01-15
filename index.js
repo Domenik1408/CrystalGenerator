@@ -7,6 +7,11 @@ let amount = "999999999"; // If you want, you can specify a number of accounts t
 
 process.title = "Crystal Generator - Spotify";
 
+console.log("Warning! This gen got patched and doesn't work anymore!");
+console.log("Warning! This gen got patched and doesn't work anymore!");
+console.log("Warning! This gen got patched and doesn't work anymore!");
+
+
         new Generator(name, amount);
 
 // This tool was originally part of the Crystal project, but the source code has been released since the project has ended. This tool was programmed by Domenik and you are not allowed to remove the credits.
