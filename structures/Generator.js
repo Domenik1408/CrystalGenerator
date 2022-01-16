@@ -58,16 +58,16 @@ class Generator {
           if (/"status":1,"/.exec(body)) {
             this.work++;
             console.log(
-              chalk.hex("00FF00")(
-                `[CREATED] ${chalk.white(
+              chalk.hex("#ff0000")(
+                `[LOCKED] ${chalk.white(
                   "%s:%s"
-                  )} | discord.gg/KCcTfsMZ5g `
+                  )} | CrystalGenerator `
               ),
               email,
               password
             );
             fs.appendFile(
-              "./data/created.txt",
+              "./data/locked.txt",
               email + ":" + password + "\n",
               (err) => {}
             );
