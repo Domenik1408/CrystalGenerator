@@ -66,11 +66,6 @@ class Generator {
               email,
               password
             );
-            fs.appendFile(
-              "./data/locked.txt",
-              email + ":" + password + "\n",
-              (err) => {}
-            );
             if (this.work == this.amount) {
               console.log("");
               console.log(
