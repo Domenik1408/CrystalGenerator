@@ -93,7 +93,7 @@ class Generator {
         }
       }
     );
-    process.title = `Crystal Generator - Spotify | Generated: ${this.work} | Retries: ${this.retries}`;
+    process.title = `Crystal Generator - Spotify | Created but get locked after some hours: ${this.work} | Retries: ${this.retries} [Generator is patched by Spotify]`;
   }
 }
 
