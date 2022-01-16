@@ -7,7 +7,7 @@ let amount = "999999999"; // If you want, you can specify a number of accounts t
 
 process.title = "Crystal Generator - Spotify [Generator is patched by Spotify]";
 
-console.log("Warning! This gen got patched and doesn't work anymore! Its still create accounts but the accounts get locked instantly.");
+console.log("Warning! This gen got patched and doesn't work anymore! Its still create accounts but the accounts get locked after some hours.");
 
 
         new Generator(name, amount);
