@@ -5,7 +5,7 @@ const Generator = require("./structures/Generator");
 let name = "CrystalGenerator"; // Here you can enter the name of the accounts that should be generated.
 let amount = "999999999"; // If you want, you can specify a number of accounts to be generated.
 
-process.title = "Crystal Generator - Spotify";
+process.title = "Crystal Generator - Spotify [Generator is patched by Spotify]";
 
 console.log("Warning! This gen got patched and doesn't work anymore! Its still create accounts but the accounts get locked instantly.");
 
