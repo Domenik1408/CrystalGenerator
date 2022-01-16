@@ -20,7 +20,7 @@ class Generator {
   create() {
     var gendervalue = ["male", "female"];
     var gender = gendervalue[Math.floor(Math.random() * gendervalue.length)];
-    var domain = ["@gmail.com", "@hotmail.com", "@yahoo.com", "@gmx.de", "@mail.ru", "@rambler.ru", "@outlook.com", "@zdomenik.net", "@mail.de", "@freenet.de", "@einfach-schneller.de", "@telekom.de", "@febanhd.de", "@galaxy.de", "@vodafone.de"]; // Ich werde die Liste der Email Provider ab nun an immer regelmäßig updaten, das stellt die Qualität der Accounts sicher.
+    var domain = ["@gmail.com", "@hotmail.com", "@yahoo.com", "@gmx.de", "@mail.ru", "@rambler.ru", "@outlook.com", "@zdomenik.net", "@mail.de", "@freenet.de", "@einfach-schneller.de", "@telekom.de", "@febanhd.de", "@galaxy.de", "@vodafone.de"];
     var email =
       new RandExp(/([a-zA-Z0-9]{20})/).gen() +
       domain[Math.floor(Math.random() * domain.length)];
