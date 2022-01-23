@@ -2,7 +2,7 @@
 
 ### CrystalGenerator got patched at 15.01.2022 and doesn't work anymore.
 
-### I'm made an working version of this gen if you want to buy contact me on discord: [RUS] Доменик#9999
+### I've made an working version of this gen if you want to buy contact me on discord: [RUS] Доменик#9999
 
 ### Setup
 
