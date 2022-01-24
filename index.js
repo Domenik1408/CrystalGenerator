@@ -1,5 +1,3 @@
-const readline = require("readline");
-const chalk = require("chalk");
 const Generator = require("./structures/Generator");
 
 let name = "CrystalGenerator"; // Here you can enter the name of the accounts that should be generated.
