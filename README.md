@@ -2,8 +2,6 @@
 
 ### CrystalGenerator got patched at 15.01.2022 and doesn't work anymore.
 
-### spotify gens will die ;)
-
 ### Setup
 
 - Install [NodeJS](https://nodejs.org) on your computer.
